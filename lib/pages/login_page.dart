@@ -1,3 +1,4 @@
+import 'package:appdeveloperteam4/utils/routes.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatelessWidget {
@@ -15,7 +16,7 @@ class LoginPage extends StatelessWidget {
             height: 20.0,
           ),
           Text(
-            'লগিন করে ভিতরে আসুন \n Login & Come Inside',
+            'Welcome',
             style: TextStyle(
               fontSize: 25,
               fontWeight: FontWeight.bold,
@@ -44,13 +45,13 @@ class LoginPage extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
-                  height: 20.0,
+                  height: 40.0,
                 ),
                 ElevatedButton(
                   child: Text('Login'),
-                  style: TextButton.styleFrom(),
+                  style: TextButton.styleFrom(minimumSize: Size(120, 50)),
                   onPressed: () {
-                    print('Welcome our Appdeveloper Team 4');
+                    Navigator.pushNamed(context, MyRoutes.homeRoute);
                   },
                 )
               ],
