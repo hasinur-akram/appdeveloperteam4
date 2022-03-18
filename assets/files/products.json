@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Android App",
+            "desc": "Android Responsive Application",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://www.howtogeek.com/wp-content/uploads/2014/09/Android-robot-and-phone.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1"
+        },
+        {
+            "id": 2,
+            "name": "Flutter App",
+            "desc": "All Devices Responsive Application",
+            "price": 5999,
+            "color": "#00ac51",
+            "image": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png"
+        },
+        {
+            "id": 3,
+            "name": "Web Application",
+            "desc": "Anykind of website Responsive Application",
+            "price": 3999,
+            "color": "#e0bfae",
+            "image": "https://amovex.com/images/service/web_application/img1.png"
+        },
+        {
+            "id": 4,
+            "name": "Native App",
+            "desc": "Apple Devices Responsive Application",
+            "price": 4999,
+            "color": "#544ee4",
+            "image": "https://appinventiv.com/blog/wp-content/uploads/2018/02/Native-Definition.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Hybrid App",
+            "desc": "Any Kind of Operating System Responsive Application",
+            "price": 9999,
+            "color": "#e3e4e9",
+            "image": "https://www.concettolabs.com/blog/wp-content/uploads/2019/10/HYBRID-APPS.jpg"
+        },
+        {
+            "id": 6,
+            "name": "ios App",
+            "desc": "Apple or i-phone Devices Responsive Application",
+            "price": 4999,
+            "color": "#f73984",
+            "image": "https://www.foretechnology.com/images/ios.png"
+        },
+        {
+            "id": 7,
+            "name": "School Management App",
+            "desc": "School Responsive Application",
+            "price": 5999,
+            "color": "#1c1c1c",
+            "image": "https://codecanyon.img.customer.envatousercontent.com/files/367761422/inline.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=1f1b8020484bfa36a426b45bd74e2f74"
+        },
+        {
+            "id": 8,
+            "name": "office Management App",
+            "desc": "Any kind of institute Responsive Application",
+            "price": 4999,
+            "color": "#7c95eb",
+            "image": "https://www.softwaresuggest.com/blog/wp-content/uploads/2021/05/Office-Management-Software-guide-696x406.jpg"
+        }
+    ]
+}

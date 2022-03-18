@@ -12,7 +12,7 @@ class ItemWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      color: Colors.orange,
+      color: Colors.white,
       shape: StadiumBorder(),
       child: ListTile(
         onTap: () {
@@ -25,7 +25,7 @@ class ItemWidget extends StatelessWidget {
           "\$${item.price}",
           textScaleFactor: 1.5,
           style: TextStyle(
-            color: Colors.deepOrange,
+            color: Colors.blue,
             fontWeight: FontWeight.bold,
           ),
           ),
